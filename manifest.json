@@ -1,6 +1,6 @@
 {
-  "name": "Sport Test App",
-  "short_name": "SportTest",
+  "name": "FC Kleit Sport Test App",
+  "short_name": "FC Kleit Testing",
   "description": "Testresultaten vastleggen en rapporteren, gekoppeld aan Google Sheets.",
   "start_url": ".",
   "scope": ".",
